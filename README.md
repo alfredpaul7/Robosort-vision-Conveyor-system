@@ -22,8 +22,7 @@ The **Robosort Vision Conveyor System** is an automated system that integrates a
 - **3D Printed Components**: The robotic arm structure is custom-designed and 3D-printed for precise object sorting.
   
 ## Components List
-- **ESP32-CAM Module**: For capturing video of objects on the conveyor belt.
-- **Arduino**: Central controller for the system, managing servos, sensors, and communication.
+- **ESP32-CAM Module**: For capturing video of objects on the conveyor belt and as a central controller for the system, managing servos, sensors, and communication.
 - **IR Sensor**: To detect objects passing on the conveyor belt.
 - **Servo Motors**: Control the 5-DOF robotic arm for picking and placing objects.
 - **3D Printed Robotic Arm**: A custom-made robotic arm used to perform pick-and-place operations.
