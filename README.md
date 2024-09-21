@@ -53,8 +53,6 @@ The **Robosort Vision Conveyor System** is an automated system that integrates a
 3. **Classification and Sorting**: Based on the classification results, the robotic arm picks up the object and places it into the corresponding slot.
 4. **Real-Time Operation**: The entire process is automated, running in real-time as objects are detected and sorted.
 
-## Circuit Diagram
-(Circuit diagram coming soon)
 
 ## Future Enhancements
 - **Multi-object Classification**: Extend the system to classify and sort more types of objects.
