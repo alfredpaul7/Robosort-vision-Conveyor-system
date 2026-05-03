@@ -35,25 +35,7 @@ providing a scalable solution for next-generation **Industry 4.0 automated sorti
 - Transmitted classification results to an Arduino via **UART communication** to control servo motor positions of the robotic arm for automated sorting operations.
 
 ---
-
-# Repository Structure
-
-```text
-Robosort-Vision-Conveyor-System/
-│
-├── CAD_Designs/
-├── Hardware_Setup/
-├── Edge_Impulse_Model/
-├── Arduino_Code/
-├── ESP32_CAM_Code/
-├── Dataset/
-├── Images/
-├── Documentation/
-└── README.md
-```
-
----
-
+ 
 # Features
 
 ## 1. Real-Time Object Detection
@@ -103,11 +85,8 @@ The robotic arm and conveyor assembly were designed using SolidWorks and fabrica
 ---
 
 ## Figure 1: Complete CAD Assembly
-
-📍 *Insert SolidWorks full assembly image here*
-
+<img width="904" height="536" alt="724a5b15-1353-4c9d-b955-33319c63106c" src="https://github.com/user-attachments/assets/e5fd0b9a-9675-4975-9142-4c029d6a7dd3" />
 Shows:
-
 - Conveyor system
 - Camera mount
 - Sorting bins
